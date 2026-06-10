@@ -1,0 +1,3 @@
+Naming conventions
+bm = basin monthly output
+bd = basin daily output
